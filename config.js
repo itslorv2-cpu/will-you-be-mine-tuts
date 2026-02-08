@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Make sure to claim your gifts Miss Baby! Some flowers 💐, a big warm hug 🧸 and a Huge kiss 😘 !",
+        message: "As the year begins, the feelings haven't aged at all. As love approaches, affection has arrived. To my beautiful Queen, you are my everything. To be your valentine would be an honor, I hope to get this to you in the sweetest fashion. I don't always say it out loud, but I really like the way we exist together. The small moments, the comfortable silences. There's a day coming up that's supposed to be about company, intention, and choosing someone. No pressure, no expectations Just us, doing whatever feels like us. Either way, I'm really glad you're in my life. I love how easy we are. The laughs, the looks, the moments that don't need explaining.You make ordinary time feel intentional. I love you always my babygirl, my favorite person, my love 😘 !",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
